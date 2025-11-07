@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "user_1",
+      "name": "Demo User",
+      "password": "",
+      "balance": 1000,
+      "currency": "GHS"
+    }
+  ],
+  "transactions": [],
+  "profits": { "total": 0, "entries": [] }
+}
